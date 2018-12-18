@@ -5,7 +5,8 @@ Please enjoy the amazing projects from the students and accompaning final report
 You can use the [editor on GitHub](https://github.com/Rose-ML-Lab/cs-6140-fall-2018/edit/master/index.md) to maintain and edit the content for this website in Markdown files.
 	
   
-# Header 1
+# Teams and Projects 
+
 1.	Akash Chidananda Murthy, Shashikiran Gadhar, Veera Venkata Sasanka Uppu
 	
 2.	Aviral Goel Akshar Varma
