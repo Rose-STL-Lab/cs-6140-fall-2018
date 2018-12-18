@@ -13,15 +13,20 @@ You can use the [editor on GitHub](https://github.com/Rose-ML-Lab/cs-6140-fall-2
 2.	[Who Let the Tweets Out?](reports/2.pdf)  
         Aviral Goel Akshar Varma
 	
-3.	[Secondary Protein Structure Prediction](reports/3.pdf) Sidharth Malhotra,Robin Walters
+3.	[Secondary Protein Structure Prediction](reports/3.pdf)   
+        Sidharth Malhotra,Robin Walters
 	
-4.	Aashish Thyagarajan, Hari Prasath Sivanandam Pavithran Ramachandran
+4.	[Webpage navigation for differently abled people using Machine Learning](reports/4.pdf)  
+        Aashish Thyagarajan, Hari Prasath Sivanandam Pavithran Ramachandran
 	
-5.	Zhewei Song, Tianyu Zhong
+5.	[Collaborative Deep Learning with Knowledge Base Embedding for Recommender Systems](reports/5.pdf)  
+        Zhewei Song, Tianyu Zhong
 	
-6.	Shihao Wang 
+6.	[A Brick-and-mortar Store Recommendation System based on Online Shopping Behavior](reports/6.pdf)  
+        Shihao Wang 
 	
-7.	Eva Sharma, SungEn Chang
+7.	[Deep Sparse Factorization for Fast Retrieval of Text Embedding](reports/7.pdf)   
+        Eva Sharma, SungEn Chang
 	
 8.	Chirayu Desai, Ruchitha Midigarahalli Shanmugha Sundar
 	
