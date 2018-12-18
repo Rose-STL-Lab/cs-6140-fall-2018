@@ -7,7 +7,8 @@ You can use the [editor on GitHub](https://github.com/Rose-ML-Lab/cs-6140-fall-2
   
 # Teams and Projects 
 
-1.	**[Visual Question Answering](reports/1.pdf)** 
+1.	[Visual Question Answering](reports/1.pdf)  
+
 Akash Chidananda Murthy, Shashikiran Gadhar, Veera Venkata Sasanka Uppu
 	
 2.	Aviral Goel Akshar Varma
