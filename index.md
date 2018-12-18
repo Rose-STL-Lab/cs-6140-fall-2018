@@ -1,6 +1,6 @@
-## Welcome to the project page for CS 6140 Machine Learning Fall 2018
+## Project Page for CS 6140 Machine Learning Fall 2018
 
-Please enjoy the amazing projects from the students and accompaning final report!
+Please enjoy the amazing projects from students and their final report!
 
 You can use the [editor on GitHub](https://github.com/Rose-ML-Lab/cs-6140-fall-2018/edit/master/index.md) to maintain and edit the content for this website in Markdown files.
 	
