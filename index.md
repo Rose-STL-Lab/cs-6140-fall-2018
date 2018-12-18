@@ -11,13 +11,13 @@ You can use the [editor on GitHub](https://github.com/Rose-ML-Lab/cs-6140-fall-2
         Akash Chidananda Murthy, Shashikiran Gadhar, Veera Venkata Sasanka Uppu
 	
 2.	[Who Let the Tweets Out?](reports/2.pdf)  
-        Aviral Goel Akshar Varma
+        Aviral Goel, Akshar Varma
 	
 3.	[Secondary Protein Structure Prediction](reports/3.pdf)   
-        Sidharth Malhotra,Robin Walters
+        Sidharth Malhotra, Robin Walters
 	
 4.	[Webpage navigation for differently abled people using Machine Learning](reports/4.pdf)  
-        Aashish Thyagarajan, Hari Prasath Sivanandam Pavithran Ramachandran
+        Aashish Thyagarajan, Hari Prasath Sivanandam, Pavithran Ramachandran
 	
 5.	[Collaborative Deep Learning with Knowledge Base Embedding for Recommender Systems](reports/5.pdf)  
         Zhewei Song, Tianyu Zhong
@@ -28,25 +28,35 @@ You can use the [editor on GitHub](https://github.com/Rose-ML-Lab/cs-6140-fall-2
 7.	[Deep Sparse Factorization for Fast Retrieval of Text Embedding](reports/7.pdf)   
         Eva Sharma, SungEn Chang
 	
-8.	Chirayu Desai, Ruchitha Midigarahalli Shanmugha Sundar
+8.	[Twitter Bot Detection using Machine Learning](reports/8.pdf)   
+        Chirayu Desai, Ruchitha M. Shanmugha Sundar
 	
-9.	Di Yi, Yuan Gao, Yichen Wang
+9.	[Predicting NBA Games](reports/9.pdf)  
+        Di Yi, Yuan Gao, Yichen Wang
 	
-10.	Weishang Quan
+10.	[Audio Generation: WaveGAN with LSTM D-net](reports/10.pdf)   
+        Weishang Quan
 	
-11.	Abdel Rahman Madkour 
+11.	[Player Imitation Through Predicting Individual Player’s Hero Picks in DoTA2](reports/11.pdf)   
+        Abdel Rahman Madkour 
 	
-12.	Joshua Bundt, Chris Stadler
+12.	[An Adversarial Attack on Fake News Detectors](reports/12.pdf)   
+        Joshua Bundt, Chris Stadler
 	
-13.	Manthan Thakkar, Bharat Vaidhyanathan
+13.	[Bitcoin Stock Price Prediction](reports/13.pdf)   
+        Manthan Thakkar, Bharat Vaidhyanathan
 	
-14.	Jheel Mehta, Abhilash Kadupatil
+14.	[An Intelligent Judiciary System](reports/14.pdf)   
+        Jheel Mehta, Abhilash Kadupatil
 	
-15.	David Lower
+15.	[Active Learning Over Text Representations](reports/15.pdf)   
+        David Lower
 	
-16.	Piyush Goel, Pallav Gupta
+16.	[FIFA World Cup 2018 Predictor](reports/16.pdf)   
+        Piyush Goel, Pallav Gupta
 	
-17.	Ankita Nallana, Ashok Koduru, Ritvika Reddy
+17.	[Facial Expression Recognition using Deep Learning](reports/17.pdf)   
+        Ankita Nallana, Ashok Koduru, Ritvika Reddy
 
 ### Support or Contact
 
