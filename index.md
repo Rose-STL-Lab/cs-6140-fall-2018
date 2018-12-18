@@ -1,11 +1,11 @@
-## Final Project 
+# Final Project 
 
 Please enjoy the amazing projects from students and their final report!
 
 You can use the [editor on GitHub](https://github.com/Rose-ML-Lab/cs-6140-fall-2018/edit/master/index.md) to maintain and edit the content for this website.
 	
   
-# Teams and Projects 
+# Teams and Reports 
 
 1.	[Visual Question Answering](reports/1.pdf)  
         Akash Chidananda Murthy, Shashikiran Gadhar, Veera Venkata Sasanka Uppu
@@ -58,6 +58,3 @@ You can use the [editor on GitHub](https://github.com/Rose-ML-Lab/cs-6140-fall-2
 17.	[Facial Expression Recognition using Deep Learning](reports/17.pdf)   
         Ankita Nallana, Ashok Koduru, Ritvika Reddy
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
