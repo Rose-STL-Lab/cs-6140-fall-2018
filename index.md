@@ -1,4 +1,4 @@
-## Project Page for CS 6140 Machine Learning Fall 2018
+## Final Project 
 
 Please enjoy the amazing projects from students and their final report!
 
