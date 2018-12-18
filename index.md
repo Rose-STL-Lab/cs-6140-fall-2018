@@ -1,36 +1,44 @@
-## Welcome to GitHub Pages
+## Welcome to the project page for CS 6140 Machine Learning Fall 2018
 
-You can use the [editor on GitHub](https://github.com/Rose-ML-Lab/cs-6140-fall-2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Please enjoy the amazing projects from the students and accompaning final report!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+You can use the [editor on GitHub](https://github.com/Rose-ML-Lab/cs-6140-fall-2018/edit/master/index.md) to maintain and edit the content for this website in Markdown files.
+	
+  
 # Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rose-ML-Lab/cs-6140-fall-2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1.	Akash Chidananda Murthy, Shashikiran Gadhar, Veera Venkata Sasanka Uppu
+	
+2.	Aviral Goel Akshar Varma
+	
+3.	Sidharth Malhotra,Robin Walters
+	
+4.	Aashish Thyagarajan, Hari Prasath Sivanandam Pavithran Ramachandran
+	
+5.	Zhewei Song, Tianyu Zhong
+	
+6.	Shihao Wang 
+	
+7.	Eva Sharma, SungEn Chang
+	
+8.	Chirayu Desai, Ruchitha Midigarahalli Shanmugha Sundar
+	
+9.	Di Yi, Yuan Gao, Yichen Wang
+	
+10.	Weishang Quan
+	
+11.	Abdel Rahman Madkour 
+	
+12.	Joshua Bundt, Chris Stadler
+	
+13.	Manthan Thakkar, Bharat Vaidhyanathan
+	
+14.	Jheel Mehta, Abhilash Kadupatil
+	
+15.	David Lower
+	
+16.	Piyush Goel, Pallav Gupta
+	
+17.	Ankita Nallana, Ashok Koduru, Ritvika Reddy
 
 ### Support or Contact
 
