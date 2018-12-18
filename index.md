@@ -9,7 +9,7 @@ You can use the [editor on GitHub](https://github.com/Rose-ML-Lab/cs-6140-fall-2
 
 1.	[Visual Question Answering](reports/1.pdf) </br> Akash Chidananda Murthy, Shashikiran Gadhar, Veera Venkata Sasanka Uppu
 	
-2.	[Who Let the Tweets Out?](reports/2.pdf) Aviral Goel Akshar Varma
+2.	[Who Let the Tweets Out?](reports/2.pdf)  </br> Aviral Goel Akshar Varma
 	
 3.	[Secondary Protein Structure Prediction](reports/3.pdf) Sidharth Malhotra,Robin Walters
 	
